@@ -1,0 +1,13 @@
+diff a/index.html b/index.html	(rejected hunks)
+@@ -1,11 +1,7 @@
+ <html>
+     <head>
+         <meta charset="UTF-8" />
+-<<<<<<< HEAD
+         <title>GIT 실험 작업 </title>
+-=======
+-        <title>GIT 수업 실험변경</title>
+->>>>>>> 실험
+     </head> 
+     <body>
+         <header>
